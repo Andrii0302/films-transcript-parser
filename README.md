@@ -1,4 +1,4 @@
-A Python script that scrapes and saves movie transcripts from subslikescript.com. It fetches movie scripts based on the first letter of the title and saves them as text files.
+A Python script that scrapes and saves movie transcripts from subslikescript.com. It fetches movie scripts based on the first letter of the title and saves them as text files. The code utilizes BeautifulSoup4.
 
 Example input:
 Enter the starting letter of the movie title: A
